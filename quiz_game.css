@@ -1,0 +1,13 @@
+body{
+background-color: red;
+}
+
+#player1{
+background-color: white;
+border-radius: 25px;
+}
+
+#player2{
+    background-color: white;
+    border-radius: 25px;
+    }
